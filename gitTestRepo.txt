@@ -3,5 +3,7 @@ using namespace standard;
 
 int main(){
 cout<<"Hello World!";
+int i;
+cin>>i;
 return 0;
 }
