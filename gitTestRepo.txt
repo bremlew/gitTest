@@ -2,8 +2,10 @@
 using namespace standard; 
 
 int main(){
-cout<<"Hello World!";
 int i;
 cin>>i;
+
+cout<<"Hello World!";
+cout<<"my int is "<<i;
 return 0;
 }
